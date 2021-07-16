@@ -1,0 +1,10 @@
+.array-bar {
+  border-radius: 5px;
+  display: inline-block;
+  margin: 0 1px;
+  width: 6px;
+}
+
+.sorting-visualizer-container {
+  text-align: center;
+}
